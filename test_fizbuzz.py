@@ -8,7 +8,7 @@ class FizzBuzzTest(unittest.Testcase):
 	"""
 
 	def test_returns_fizz_when_passed_passed_a_number_divisible_by_three(self):
-		"""Test retuurn fizz when input is
+		"""Test return fizz when input is
 		divisible by three 
 		"""
 		self.assertEqual(fizzbuzz.fizz_buzz(3), 'fizz')
