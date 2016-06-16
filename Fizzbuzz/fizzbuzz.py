@@ -1,4 +1,4 @@
-def fizz_buzz():
+def fizz_buzz(n):
 	""" return fizz when divisible by 3
 	return buzz when diviisible by 5
 	return fizzbuzz when divisible by both 3 and 5
